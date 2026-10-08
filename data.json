@@ -1346,7 +1346,14 @@
       "solution": "Copilot i Teams-møder",
       "assessment": {
         "value": {
-          "score": 3
+          "score": 3,
+          "comments": [
+            {
+              "id": "c_1791498688909",
+              "text": "smart idé, men virker det?",
+              "at": "2026-10-08"
+            }
+          ]
         },
         "ttv": {
           "score": 3
